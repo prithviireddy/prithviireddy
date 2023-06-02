@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prithviireddy
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning java &c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me @reddyrpruthvinathreddy@gmail.com
 
 <!---
